@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PixelVibe, my pals call me Parth.
 - 👀 I’m interested in UI design.
 - 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate on , well something awesome, sson.
+- 💞️ I’m looking to collaborate on well, something awesome, soon.
 - 📫 How to reach me ? Find me I'm everywhere.
 
 <!---
